@@ -1,0 +1,3 @@
+com\stackz\Application.class
+com\stackz\config\ResourceServerConfig.class
+com\stackz\Controller\BasicController.class
